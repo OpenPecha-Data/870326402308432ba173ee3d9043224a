@@ -1422,24 +1422,28 @@ annotations:
     span:
       start: 249054
       end: 249833
+    note_ref: 1facb32db99a4053a2d7c94924e8d2e4
   64e6f65b063e44cdbc09d12975b7c94d:
     imgnum: 216
     reference: ''
     span:
       start: 249836
       end: 251245
+    note_ref: 1facb32db99a4053a2d7c94924e8d2e4
   3bd6254b222344b69f7743cc95830282:
     imgnum: 217
     reference: ''
     span:
       start: 251248
       end: 252701
+    note_ref: 1facb32db99a4053a2d7c94924e8d2e4
   ebaf618bf09e420a88ba006867ce8c79:
     imgnum: 218
     reference: ''
     span:
       start: 252704
       end: 253712
+    note_ref: 1facb32db99a4053a2d7c94924e8d2e4
   1facb32db99a4053a2d7c94924e8d2e4:
     imgnum: 219
     reference: ''
@@ -1458,24 +1462,28 @@ annotations:
     span:
       start: 255885
       end: 256677
+    note_ref: 4f57b0f937f340c6958da3fff2d21a85
   54503b637f2d4cefa1e2d44fda5b975f:
     imgnum: 222
     reference: ''
     span:
       start: 256680
       end: 258163
+    note_ref: 4f57b0f937f340c6958da3fff2d21a85
   f1406b8b55924f799e41389e1e99e378:
     imgnum: 223
     reference: ''
     span:
       start: 258166
       end: 259569
+    note_ref: 4f57b0f937f340c6958da3fff2d21a85
   f5f6031c5d7e49428a4333cd9b5bd676:
     imgnum: 224
     reference: ''
     span:
       start: 259572
       end: 260787
+    note_ref: 4f57b0f937f340c6958da3fff2d21a85
   4f57b0f937f340c6958da3fff2d21a85:
     imgnum: 225
     reference: ''
@@ -1494,12 +1502,14 @@ annotations:
     span:
       start: 262878
       end: 263657
+    note_ref: 1298f9790293487c9632865ff2581614
   1298f9790293487c9632865ff2581614:
     imgnum: 228
     reference: ''
     span:
       start: 263660
       end: 264649
+    note_ref: 1298f9790293487c9632865ff2581614
   75a527cb69d44c5db8e8557a24946544:
     imgnum: 229
     reference: ''
@@ -1884,78 +1894,91 @@ annotations:
     span:
       start: 342525
       end: 343320
+    note_ref: 30f2937529bc4853b7221eb273d75054
   67b0a7d5c60948aeaf205ec3f2f4092c:
     imgnum: 293
     reference: ''
     span:
       start: 343323
       end: 344664
+    note_ref: 30f2937529bc4853b7221eb273d75054
   66f359bf2fa246ca928cf252ad2e41e4:
     imgnum: 294
     reference: ''
     span:
       start: 344667
       end: 346017
+    note_ref: 30f2937529bc4853b7221eb273d75054
   85587a4770734aa39160b5a18da1f115:
     imgnum: 295
     reference: ''
     span:
       start: 346020
       end: 347324
+    note_ref: 30f2937529bc4853b7221eb273d75054
   62a65f4d14204f5994fcbd6e5ef10a63:
     imgnum: 296
     reference: ''
     span:
       start: 347327
       end: 348637
+    note_ref: 9f09be28bce74650a9aaddc9491925a3
   38cc51bd1ae440ca88eca55a4335d80a:
     imgnum: 297
     reference: ''
     span:
       start: 348640
       end: 349963
+    note_ref: 9f09be28bce74650a9aaddc9491925a3
   f595e0355f4e4f3b96a63bcfd3089ff6:
     imgnum: 298
     reference: ''
     span:
       start: 349966
       end: 351285
+    note_ref: 9f09be28bce74650a9aaddc9491925a3
   0f16b687715b473999059af8a936a053:
     imgnum: 299
     reference: ''
     span:
       start: 351288
       end: 352631
+    note_ref: 9f09be28bce74650a9aaddc9491925a3
   ffd93df758054be78a5a9b3aa66040e1:
     imgnum: 300
     reference: ''
     span:
       start: 352634
       end: 353937
+    note_ref: d0948a1d122f4465a70008a0e22c5f5c
   eb573578bd7b4f018224ba5f11048a0b:
     imgnum: 301
     reference: ''
     span:
       start: 353940
       end: 355246
+    note_ref: d0948a1d122f4465a70008a0e22c5f5c
   ad221e84529e42f29bf09b3b23c02e26:
     imgnum: 302
     reference: ''
     span:
       start: 355249
       end: 356600
+    note_ref: d0948a1d122f4465a70008a0e22c5f5c
   0268819459034e5f980f51745435b974:
     imgnum: 303
     reference: ''
     span:
       start: 356603
       end: 357973
+    note_ref: d0948a1d122f4465a70008a0e22c5f5c
   81e027a0b93049a994c2d7c22cd88019:
     imgnum: 304
     reference: ''
     span:
       start: 357976
       end: 359268
+    note_ref: d0948a1d122f4465a70008a0e22c5f5c
   30f2937529bc4853b7221eb273d75054:
     imgnum: 305
     reference: ''
